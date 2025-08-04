@@ -5,8 +5,8 @@
 ## Team
 - Guillaume **CAUSSY**
 - Aina **GRATIOT**
-- Monika **SAMBLAS MATUTE**
-- <a href="https://linktr.ee/nicosavlar" target="_blank">Nicolas **SAVY-LARIGALDIE**</a> (me)
+- [Monika **SAMBLAS MATUTE**](https://linktr.ee/MissMnk)
+- [Nicolas **SAVY-LARIGALDIE**](https://linktr.ee/nicosavlar) (me)
 
 
 ## 2D
