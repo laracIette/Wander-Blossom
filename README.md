@@ -1,6 +1,10 @@
 # Wander Blossom
 10 weeks to create a retro-like, action-adventure game in Unreal Engine.
 
+[Click to see the trailer on YouTube](https://youtu.be/2RYzSmP6kX0?si=uAdH4-WLWKr4deOE)
+[![wander_blossom_trailer_thumbnail](wander_blossom_trailer_thumbnail.jpg)](https://youtu.be/2RYzSmP6kX0?si=uAdH4-WLWKr4deOE)
+
+---
 
 ## Team
 - Guillaume **CAUSSY**
