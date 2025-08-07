@@ -1,5 +1,5 @@
-# PFA_B2_2025
-10 weeks to create a retro like, action-adventure game in Unreal Engine.
+# Wander Blossom
+10 weeks to create a retro-like, action-adventure game in Unreal Engine.
 
 
 ## Team
